@@ -1,0 +1,8 @@
+---
+- name: Ejecutar Punto D TP2 - Mariano Sotelo
+  hosts: localhost
+  become: yes
+  gather_facts: yes
+
+  roles:
+    - sotelo_role
