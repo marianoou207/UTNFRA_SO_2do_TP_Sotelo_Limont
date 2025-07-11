@@ -73,8 +73,6 @@ cp -r ~/202406 .
 cp -r ~/RTA_Examen_20250711 .
 cp ~/.bash_history .
 tree -L 2
-sudo apt install tree
-tree -L 2
 cd ~/UTNFRA_SO_2do_TP_Sotelo_Limont
 cp -r ~/202406 .
 cp -r ~/RTA_Examen_20250711 .
